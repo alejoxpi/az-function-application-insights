@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunction_Insights", "AzFunction_Insights\AzFunction_Insights.csproj", "{162E33A5-2FAF-4C16-AC70-CB577CA4C604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162E33A5-2FAF-4C16-AC70-CB577CA4C604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162E33A5-2FAF-4C16-AC70-CB577CA4C604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162E33A5-2FAF-4C16-AC70-CB577CA4C604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162E33A5-2FAF-4C16-AC70-CB577CA4C604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED3464C-7D87-4498-B9EC-655A5A75397C}
+	EndGlobalSection
+EndGlobal
